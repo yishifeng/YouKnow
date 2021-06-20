@@ -1,4 +1,4 @@
-package com.mrkj.ygl.springException;
+package com.ysf.springException;
 
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
